@@ -1,0 +1,39 @@
+{
+  "name": " #13",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmVb97iCKfDAjAFyuLSjUKF8nR4iYgDn21Na74YmRf5mMo/13.png",
+  "dna": "d29a9be82aab7d825a115d0701c9cf4c4983d7c8",
+  "edition": 13,
+  "date": 1656372440237,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "17"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "1"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "22"
+    },
+    {
+      "trait_type": "Face",
+      "value": "21"
+    },
+    {
+      "trait_type": "JEWELRY1",
+      "value": "12"
+    },
+    {
+      "trait_type": "JEWELRY2",
+      "value": "5"
+    },
+    {
+      "trait_type": "JEWELRY3",
+      "value": "16"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
